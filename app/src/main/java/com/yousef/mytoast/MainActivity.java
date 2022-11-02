@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         MyToast.setShortToast(this,"This is short Toast", MyToast.SUCCESS);
+
         MyToast.setLongToast(this,"This is long Toast", MyToast.FAIL);
     }
 }
