@@ -29,7 +29,7 @@ Or  Add it in your root settings.gradle :
 Step 2. Add the dependency
 
 	dependencies {
-	         implementation 'com.github.YousefShaabanSaad:MyToast:1.0.0'
+	         implementation 'com.github.YousefShaabanSaad:MyToast:1.0.1'
 	}
 
 Step 3. In Activity
